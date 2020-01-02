@@ -14,7 +14,7 @@
    id="svg3030"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon_default_project_icon.svg"
+   sodipodi:docname="project_icon.svg"
    inkscape:export-filename="/home/akien/Projects/godot/godot.git/icon3.png"
    inkscape:export-xdpi="6"
    inkscape:export-ydpi="6">
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="601.35476"
-     inkscape:cy="346.09731"
+     inkscape:zoom="0.25"
+     inkscape:cx="584.98668"
+     inkscape:cy="231.97831"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4676"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3035">
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,6 +133,88 @@
          style="fill:#414042;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.31488276"
          id="path108-9"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4646"
+       transform="matrix(4.0884395,0,0,4.0884395,2775.1962,104.00799)">
+      <g
+         inkscape:export-filename="C:\Users\wmedina\Documents\GitHub\godot\main\app_icon.png"
+         inkscape:export-ydpi="12.543864"
+         inkscape:export-xdpi="12.543864"
+         style="stroke:#e80000;stroke-opacity:1"
+         id="g4676"
+         transform="matrix(0.92124202,0,0,-0.92124202,-772.68954,420.72416)">
+        <path
+           style="fill:#e80000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.06527328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 263.11826,440.15918 c -4.60113,-7.68417 -8.80854,-16.00468 -12.47314,-24.13953 -4.29987,0.71397 -8.61935,0.98217 -12.94483,1.03784 V 270.99471 h 21.37354 c 2.18631,0 4.04187,-1.59342 4.36083,-3.74232 l 2.45948,-16.57483 35.71289,2.53274 1.26123,17.95762 c 0.15043,2.13544 1.82964,3.84994 3.97411,4.05674 l 40.92335,3.92281 c 0.12102,0.0113 0.24258,0.0149 0.36474,0.0161 v 5.29544 l 0.0175,0.006 v 61.05609 h 0.15088 c 5.4234,6.87833 10.44225,14.12611 15.25488,21.85862 -6.39158,10.812 -14.22282,20.4743 -22.59375,29.42623 -7.76355,-3.8831 -15.30452,-8.28242 -22.42676,-12.9635 -3.56395,3.52008 -7.57814,6.40057 -11.52099,9.41041 -3.87386,3.09187 -8.24008,5.35874 -12.38086,7.99993 1.23285,9.12278 1.84343,18.10379 2.08887,27.47719 -10.68393,5.34307 -22.07775,8.88478 -33.60205,11.42931 z m 85.08398,-169.7729 -36.79834,-3.52691 -1.26855,-18.0537 c -0.1527,-2.17588 -1.89427,-3.90779 -4.08399,-4.064 l -43.6084,-3.09168 c -0.10632,-0.008 -0.21268,-0.0117 -0.31786,-0.0117 -2.16711,0 -4.03636,1.58138 -4.35645,3.74378 l -2.50049,16.85138 H 237.70029 V 203.8759 c 61.20693,0.24308 110.43018,18.81237 110.43017,57.41435 0,0.87328 0.0537,5.16231 0.0718,9.09599 z"
+           id="path88-0"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-filename="C:\Users\wmedina\Documents\GitHub\godot\main\app_icon.png"
+         inkscape:export-ydpi="12.543864"
+         inkscape:export-xdpi="12.543864"
+         style="stroke-width:0.88413143"
+         transform="matrix(1.041974,0,0,-1.041974,-584.40724,127.00112)"
+         id="g90">
+        <path
+           inkscape:connector-curvature="0"
+           id="path92"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88413143"
+           d="m 0,0 c 0,-12.052 -9.765,-21.815 -21.813,-21.815 -12.042,0 -21.81,9.763 -21.81,21.815 0,12.044 9.768,21.802 21.81,21.802 C -9.765,21.802 0,12.044 0,0" />
+      </g>
+      <g
+         inkscape:export-filename="C:\Users\wmedina\Documents\GitHub\godot\main\app_icon.png"
+         inkscape:export-ydpi="12.543864"
+         inkscape:export-xdpi="12.543864"
+         style="stroke-width:0.88413143"
+         transform="matrix(1.041974,0,0,-1.041974,-589.87615,128.34923)"
+         id="g94">
+        <path
+           inkscape:connector-curvature="0"
+           id="path96"
+           style="fill:#414042;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88413143"
+           d="m 0,0 c 0,-7.994 -6.479,-14.473 -14.479,-14.473 -7.996,0 -14.479,6.479 -14.479,14.473 0,7.994 6.483,14.479 14.479,14.479 C -6.479,14.479 0,7.994 0,0" />
+      </g>
+      <g
+         inkscape:export-filename="C:\Users\wmedina\Documents\GitHub\godot\main\app_icon.png"
+         inkscape:export-ydpi="12.543864"
+         inkscape:export-xdpi="12.543864"
+         style="stroke-width:0.88413143"
+         transform="matrix(1.041974,0,0,-1.041974,-553.67359,151.79969)"
+         id="g98">
+        <path
+           inkscape:connector-curvature="0"
+           id="path100"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88413143"
+           d="m 0,0 c -3.878,0 -7.021,2.858 -7.021,6.381 v 20.081 c 0,3.52 3.143,6.381 7.021,6.381 3.878,0 7.028,-2.861 7.028,-6.381 V 6.381 C 7.028,2.858 3.878,0 0,0" />
+      </g>
+      <g
+         inkscape:export-filename="C:\Users\wmedina\Documents\GitHub\godot\main\app_icon.png"
+         inkscape:export-ydpi="12.543864"
+         inkscape:export-xdpi="12.543864"
+         style="stroke-width:0.88413143"
+         transform="matrix(1.041974,0,0,-1.041974,-522.93619,127.00112)"
+         id="g102">
+        <path
+           inkscape:connector-curvature="0"
+           id="path104"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88413143"
+           d="m 0,0 c 0,-12.052 9.765,-21.815 21.815,-21.815 12.041,0 21.808,9.763 21.808,21.815 0,12.044 -9.767,21.802 -21.808,21.802 C 9.765,21.802 0,12.044 0,0" />
+      </g>
+      <g
+         inkscape:export-filename="C:\Users\wmedina\Documents\GitHub\godot\main\app_icon.png"
+         inkscape:export-ydpi="12.543864"
+         inkscape:export-xdpi="12.543864"
+         style="stroke-width:0.88413143"
+         transform="matrix(1.041974,0,0,-1.041974,-517.46592,128.34923)"
+         id="g106">
+        <path
+           inkscape:connector-curvature="0"
+           id="path108"
+           style="fill:#414042;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88413143"
+           d="m 0,0 c 0,-7.994 6.477,-14.473 14.471,-14.473 8.002,0 14.479,6.479 14.479,14.473 0,7.994 -6.477,14.479 -14.479,14.479 C 6.477,14.479 0,7.994 0,0" />
+      </g>
     </g>
   </g>
 </svg>
